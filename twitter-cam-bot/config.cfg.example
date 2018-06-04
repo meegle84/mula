@@ -1,0 +1,8 @@
+[KEYS]
+CONSUMER_KEY = YourConsumerKey
+CONSUMER_SECRET = YourConsumerSecret
+ACCESS_KEY = YourAccessKey
+ACCESS_SECRET = YourAccessSecret
+
+[HASHTAGS]
+hashtags = '#ANiceHashtag #AnotherHashtag'
